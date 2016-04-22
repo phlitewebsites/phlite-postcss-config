@@ -16,10 +16,5 @@
   "bugs": {
     "url": "https://github.com/phlitewebsites/phlite-postcss-config/issues"
   },
-  "homepage": "https://github.com/phlitewebsites/phlite-postcss-config#readme",
-  "dependencies": {
-    "autoprefixer": "6.3.6",
-    "cssnano": "3.5.2",
-    "postcss-cli": "2.5.1"
-  }
+  "homepage": "https://github.com/phlitewebsites/phlite-postcss-config#readme"
 }
